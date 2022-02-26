@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy tenent confuted, or, Bloud forbidden: shewing the unlawfulnesse of eating bloud, in what manner of thing soever. Wherein is clearely proved by Scripture, that eating of bloud was alwaies unlawfull both to Jewes and Gentiles; and is still unlawfull for Christians under the Gospell. With an answer to all objections to the contrary: and the vindicating of this opinion from Judaisme.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76915</idno>
+            <idno type="STC">Wing B3293</idno>
+            <idno type="STC">Thomason E506_9</idno>
+            <idno type="STC">ESTC R205329</idno>
+            <idno type="EEBO-CITATION">99864737</idno>
+            <idno type="PROQUEST">99864737</idno>
+            <idno type="VID">116969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E506[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy tenent confuted, or, Bloud forbidden: shewing the unlawfulnesse of eating bloud, in what manner of thing soever. Wherein is clearely proved by Scripture, that eating of bloud was alwaies unlawfull both to Jewes and Gentiles; and is still unlawfull for Christians under the Gospell. With an answer to all objections to the contrary: and the vindicating of this opinion from Judaisme.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.S. and W.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 16"; the 6 in imprint date crossed out and date altered to 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blood --  Religious aspects --  Early works to 1800.</term>
+               <term>Diet --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116969:1" rendition="simple:additions"/>
+            <p>A Bloudy Tenent confuted, <hi>OR,</hi> BLOUD FORBIDDEN: SHEWING The unlawfulneſſe of eating Bloud, in what manner of thing ſoever.</p>
+            <p>Wherein is clearely proved by Scripture, that eating of Bloud was alwaies unlawfull both to Jewes and Gentiles; and is ſtill unlawfull for Chriſtians under the Goſpell.</p>
+            <p>WITH <hi>An Anſwer to all Objections to the contrary: And the vindicating of this Opinion from Judaiſme.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Levit.</hi> 17.10.</bibl>
+               <p>And vvhatſoever man there be of the houſe of Iſrael, or of the ſtrangers vvhich ſojourne among you, that eateth any manner of bloud, I vvill even ſet my face againſt that ſoule that eateth bloud, and cut him off from his people.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Deut.</hi> 12.23, 24.</bibl>
+               <p>Onely be ſure thou eat not the bloud, for the bloud is the life, <hi>&amp;c.</hi> Thou ſhalt not eat it, thou shalt povvre it upon the earth as vvater.</p>
+               <p>Thou shalt not eat it, that it may go vvell vvith thee, and vvith thy children after thee, vvhen thou shalt do that vvhich is right in the ſight of the Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. S.</hi> and <hi>W. L.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:116969:2"/>
+            <head>A Bloudy Tenet confuted, OR, Bloud forbidden.</head>
+            <p>BEing to diſcourſe upon a point, which almoſt all men deny; and being to ſhew the unlawfulneſſe of that which moſt men count lawfull, it will be expected<g ref="char:punc">▪</g> ſhould make ſome Apologie for the noveltie, or newneſſe of the opinion.</p>
+            <p>That which I ſhall ſay is:</p>
+            <p>Firſt, that the objection of noveltie, or newneſſe of an opinion, taken in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſenſe, is a ſure rule to convince an errour: <hi>viz.</hi> when an opinion is broached cont<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and beſides the Scripture, which is the good old way, that ancient ſtandard, by w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> all opinions muſt be meaſured.</p>
+            <p>Secondly, that the objection of the noveltie, or newneſſe of an opinion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther ſenſe, as it is uſually now taken, for a differing from what our for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-fathers <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hold, is a veri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weak and unreaſonable objection, as eaſily might be proved at larg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>Thirdly, the objection of noveltie is not only weak, but miſchievous, as might be ſhewed in all ages, hindring men from the ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rch of the Scriptures, and is the gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the implicite faith now in Rome, and a great cauſe of the quarrells in all Chr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Churches, and of the preſent troubles of this our Kingdome, as eaſily might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhewed.</p>
+            <p>Briefly to anſwer theſe Antiquaries with the words of St. <hi>Cyprian,</hi> whom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſure they will not count a Sectarie, or Novelliſt: His words are, <hi>Quid his, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte nos fecerit, aut docuerit, ſed quid is qui ante <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes eſt, Chriſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, &amp;c.</hi> What this or that man did, or taught, before us; but what hee did who was before all, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt himſelfe, who only is <hi>the way, the truth, and the life,</hi> from whoſe precep <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ought not to digreſſe: <hi>Cyprian. ad Caecil. lib.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piſt.</hi> 3. So to <hi>Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p</hi> againſt <hi>S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Om<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es quippe antiquitates, &amp;c.</hi> All antiquitie and cuſtome not grounded o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the truth, is to be accounted no other than an ancient errour. To which <hi>Auſtin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> againſt the Donatiſts, <hi>lib.</hi> 2. <hi>cap.</hi> 3. and <hi>Jerome</hi> in his Epiſtle to <hi>Minerium.</hi>
+            </p>
+            <p>Briefly, if this opinion againſt eating of bloud, upon due examination, find not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foundation in the written word of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncienter dayes, let it be rejected as a no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> but if it find footing there, let the greateſt Antiquarie in the world reject it, if he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+            <p>Briefly to the point, three things I ſhall do to cleere it.</p>
+            <list>
+               <item>Firſt, ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Scriptures which expreſſely forbid the eating of any manner of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</item>
+               <item>Secondly, I ſhall ſhew, that theſe Scriptures which forbid <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all men, both Jewes, Gentiles, and Chriſtians.</item>
+               <pb n="3" facs="tcp:116969:2"/>
+               <item>Thirdly, anſwer the objections to the contrarie.</item>
+            </list>
+            <p>For the firſt, the Scriptures to this purpoſe are many, expreſſe, plain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and obvious to everie mans eye, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely any thing ſet out more cleer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly; ſome of which I ſhall cite at large: <hi>Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</hi> 7, 26, <hi>Ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eat no manner of bloud, whether it be of fowle, or of beaſt, in any of your dwellings:</hi> mark what followes: <hi>whatſoever he be</hi> (Prince or Potentate, Gentle or Simple) <hi>that eateth any manner of bloud, even that ſoule ſhall be cut off from his people,</hi> that is penaltie enough. So <hi>Levit.</hi> 17.10, 11, 12, 13, <hi>&amp;c. Whatſoever man there be of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe of Iſrael, or ſtranger which ſojournes among you, that eateth any manner of bloud:</hi> What of him? What? Sentence ſevere enough: <hi>I will</hi> (ſaith God) <hi>even ſet my face againſt that ſoule that eateth bloud,</hi> and that is not all neither; but <hi>I will cut him off from his people.</hi> A heavie ſentence. What is the reaſon of it? Not becauſe bloud was ceremonially uncleane, as ſome would have it; but be<g ref="char:EOLhyphen"/>cauſe (as it is fou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e times repeated in the following verſes) I ſay it is the life of the beaſt: but more of that afterwards. Then it followes, <hi>Therefore ſaid I to the children of Iſrael</hi> (twice repeated in this Chapter) <hi>no ſoule of you ſhall eat bloud, nei<g ref="char:EOLhyphen"/>ther ſhall any ſtranger among you eat any bloud, &amp;c.</hi> And in the fourteenth verſe hee repeats it againe, <hi>Whoſoever eateth it ſhall be cut off.</hi> See the latter part of that Chapter at large. What can be more plaine, if there were no other Text? No manner of per<g ref="char:EOLhyphen"/>ſon, nor no manner of bloud. For, <hi>it is the life of the beaſt;</hi> and, <hi>it is the life of the beaſt,</hi> againe and againe, and, <hi>I will ſet my face againſt him, and I will cut him off,</hi> twice repeated. If this be not plaine enough, no Rhetorick in the world can make it plaine. So <hi>Deut.</hi> 22.16. where God tells them, they might <hi>eat fleſh, what their ſoules deſi<g ref="char:EOLhyphen"/>red,</hi> only, that they ſhould not <hi>eat the bloud,</hi> but ſhould <hi>powre it as water upon the ground.</hi> And in verſ. 23, 24, 25. having told them what beaſts they might eat the fleſh of, he concludes, <hi>only be ſure</hi> (obſerve that) <hi>that thou eat not the bloud:</hi> No what is the matter? is it uncleane? No, no: <hi>It is the life of the beaſt:</hi> Be you not ſo cruell, that when I give you leave to eat the fleſh, that you will eat the verie life of the beaſt. And it followeth, <hi>And thou mayeſt not eat the life with the fleſh:</hi> Nay, as if God did fore-ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our fooliſh cuſtome of eating black puddings, on purpoſe to beat it into our heads, whether wee will or no, he repeats it, <hi>Thou ſhalt not eat it:</hi> No? What ſhall we do with it then, ſhall we loſe good victualls? yea, ſayes God, <hi>You ſhall powre it upon the ground like water;</hi> yea, but I hope though we muſt let it powre out of the beaſt, yet wee may ſave it in a diſh, to make puddings with it, or elſe wee ſhould be counted verie ill huſwives. Well, if you will be counted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tter huſ<g ref="char:EOLhyphen"/>wives than God would have you, who can help it: But God tells you expreſſely, <hi>Levit.</hi> 17.13. that you ſhall not only powre it out, and out upon the ground, but that you ſhall cover it with duſt; and if you will make puddings of duſt, I doubt your market will be ſpoyled. And it followes <hi>Deut.</hi> 12.25. <hi>Thou ſhalt not eat it, that it may go well with th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and with thy children after thee, when thou ſhalt do that which is right in the ſight of the Lord.</hi> Lo, here is both bleſſing and curſing, to keep us from eating of bloud: Arguments ſtrong enough, if we are fleſh and bloud, much more if we are Chriſtians.</p>
+            <p>So <hi>Gen.</hi> 9.4. God takes care the firſt time that we read fleſh allowed to be eaten:
+<pb n="4" facs="tcp:116969:3"/>yet he commands <hi>Noah; But the fleſh with the life thereof, which is the bloud, yee <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not eat:</hi> So <hi>Levit.</hi> 19.16.</p>
+            <p>Nay, what ſay you to a Text in the New Teſtament, not to the Jewes, but to the Chriſtian-Gentiles: Well, ſuch a Text there is, <hi>Acts</hi> 15.28, 29. For it ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good to the Holy Ghoſt, and to us, to lay upon you no other burthen than theſe ne<g ref="char:EOLhyphen"/>ceſſarie things; <hi>That yee abſtaine from meats offered to Idols, and from bloud, and from things ſtrangled, and from fornication, from which if you keep your ſelves, you ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well.</hi> You ſee that neither Old nor New Teſtament can feare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mention the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<g ref="char:EOLhyphen"/>ding of eating bloud, but it annexeth either a bleſſing to them that abſtaine, or a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſuch as practiſe it.</p>
+            <p>It is true I confeſſe, many think this Text of <hi>Acts</hi> 15.28. makes againſt my opi<g ref="char:EOLhyphen"/>nion, and for the lawfulneſſe of eating bloud; for (ſay they) abſtaining from bloud is here forbidden to the Chriſtian-Gentiles, only as an indifferent thing to avoyd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of<g ref="char:EOLhyphen"/>fence, amongſt other indifferent things.</p>
+            <p>
+               <hi>Anſw.</hi> We anſwer: For them that hold that opinion, if they will hold it upon any ground, they muſt not beg the queſtion, when ſo many plaine expreſſe precepts, both of the Law with penaltie and bleſſings annexed, and before the Law to <hi>Noab,</hi> do expreſſely forbid and prohibit it, men muſt not think upon another Text in the New Teſtament which forbids the ſame thing, and no intimation of making it indif<g ref="char:EOLhyphen"/>ferent, but rather ſinfull; I ſay men muſt not without ſome better ground count the eating of bloud forbidden, <hi>Acts</hi> 15. to be forbidden as an idifferent thing only.</p>
+            <p>But they ſay bloud is there joyned with <hi>meats offered to Idols,</hi> an indifferent thing; <hi>Ergo,</hi> Bloud is indifferent.</p>
+            <p>
+               <hi>Anſw.</hi> Wee anſwer: whether the eating of <hi>meats offered to Idols,</hi> in that ſenſe there ſpoken of, be indifferent or no, more ſhall be ſaid in the anſwer to the objections.</p>
+            <p>But in caſe it ſhould be indifferent, and bloud joyned with it, my argument is eve<g ref="char:EOLhyphen"/>rie whit as good thus.</p>
+            <p>Forbidding to eat bloud is joyned with fornication, a ſin againſt the Morall Law, and is puniſhed with damnation, 1 <hi>Cor.</hi> 6.9. <hi>Ergo,</hi> the eating of bloud is a ſin againſt the Law of God, and is puniſhable with damnation: For bloud is as well joyned with fornication, <hi>Acts</hi> 15. as with meats offered to Idols.</p>
+            <p>So much for that point, the Scriptures that forbid to eat bloud.</p>
+            <p>The ſecond thing is, to prove theſe Lawes to bind us, as well as the Jewes: That I ſhall do thus:
+<list>
+                  <item>Firſt, becauſe this Law of forbidding to eat bloud, was given to <hi>Noah,</hi> the father both of Jewes and Gentiles, long before the Ceremoniall Law, as is cleere <hi>Gen.</hi> 9 4. <hi>Thou ſhalt not eat the fleſh with the life, which is the bloud:</hi> A Text expreſſe enough, long before the Ceremoniall Law: So that from hence we may argue thus.
+<list>
+                        <item>1 This Law was given to the father of both Jewes and Gentiles, for him and his poſteritie. But all the world are the poſteritie of <hi>Noah,</hi> to whom this Law was gi<g ref="char:EOLhyphen"/>ven. <hi>Ergo,</hi> All the world are bound to this Law, of forbidding to eat bloud.</item>
+                        <item>2 Thus the Ceremoniall Law was given to the Jews only, and to ſuch as ſhould become their Proſelites. But the Law of prohibiting to eat bloud, was given to the
+<pb n="5" facs="tcp:116969:3"/>Gentiles in their father <hi>Noah,</hi> and that long before the Ceremoniall Law to the Jews. <hi>Ergo,</hi> the forbidding to eat bloud is no part of the Ceremoniall Law.</item>
+                     </list>
+                  </item>
+                  <item>Secondly, I prove this Law of forbidding to eat bloud, to be Morall, and to bind all, both Jewes and Gentiles thus.</item>
+               </list>
+            </p>
+            <p>Becauſe it was given upon a morall reaſon, <hi>viz.</hi> Becauſe bloud is the life of the beaſt, <hi>Gen.</hi> 9.4. that is, it were a token of extreame crueltie, and unmercifulneſſe, to eat that when the beaſt is dead, which was the life of it whilſt it was living: A cruell thing to eat life it ſelfe; and therefore almoſt continually that reaſon is given, why bloud ſhould not be be eaten, <hi>becauſe it is the life of the beaſt;</hi> not becauſe it is an un<g ref="char:EOLhyphen"/>cleane thing, as things forbidden in the Ceremoniall Law; but as a cruell thing for<g ref="char:EOLhyphen"/>bidden, as a Morall Law.</p>
+            <p>From hence we may argue thus:</p>
+            <p>Things forbidden to be eaten in the Ceremoniall Law, was for ſome poſitive, or typicall uncleanneſſe put upon them.</p>
+            <p>But blood was not forbidden to be eaten, as having ſome poſitive or typicall un<g ref="char:EOLhyphen"/>cleanneſſe, but as a token of a mercileſſe cruell heart and diſpoſition.</p>
+            <p>
+               <hi>Ergo.</hi> The Law of forbidding to eat blood was no part of the Ceremoniall Law.</p>
+            <p>But ſome may ſay it ſeemes to be a greater token of cruelty to kill the beaſt, then to eat the blood when it is dead, for in the one the beaſt feels paine, not in the other.</p>
+            <p>
+               <hi>Anſ.</hi> The killing of the beaſt is permitted to us as of neceſſity, to make it fit for our uſe, and cannot be avoyded; and the eating of the blood after a beaſt is dead, though the beaſt then feeles no harme nor paine, yet may it be a greater token of cruel<g ref="char:EOLhyphen"/>ty then to kill it whilſt it was alive.</p>
+            <p>As may appeare by this familiar example.</p>
+            <p>It is a greater token of cruelty and inhumanitie to teare the fleſh of a dead man, or to kicke it up and downe the ſtreets, or to abuſe it, though the dead bodie feels no pain, than it is to kill a man by hanging him, in caſe the Law hath condemned him, and de<g ref="char:EOLhyphen"/>livered him over to execution, and yet that puts the party to paine and not the other.</p>
+            <p>So here it is a greater ſigne and token of cruelty in us to eat the blood of a dead beaſt, being the life of it whilſt it was, though the beaſt feels no paine, then it is to kill a beaſt which God by his permiſſion hath delivered into our hands for food, al<g ref="char:EOLhyphen"/>though by the ſlaying it ſeekes paine, and in the eating of the blood none.</p>
+            <p>So I conceive this ſecond thing is cleare that the Law is not ceremoniall but binds both Jewes and Chriſtians.</p>
+            <p>I might add the Text again, <hi>Act.</hi> 15. forbidding the Gentiles, but more afterwards.</p>
+            <p>Who for the third thing to anſwer objecteth.</p>
+            <p>
+               <hi>Object.</hi> 1. Againſt this it is objected, that it is the eating of the bloud with the fleſh that is forbidden, and not when it is ſeperated from the fleſh.</p>
+            <p>
+               <hi>Anſ.</hi> 1. Then by this objection, things ſtrangled are forbidden, that is to eat ſuch things who loſe their lives by ſtrangling or otherwiſe, not having their blood taken from them.</p>
+            <p>
+               <hi>Anſ.</hi> 2. The Scripture is ſo cleare in anſwering this Objection, that there is no colour of an Objection left; for it doth not only containe to let out the blood of
+<pb n="4" facs="tcp:116969:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:116969:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:116969:5"/>b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſts, but to let it out as water upon the ground, and ſure it cannot be intended <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould be gathered up to be eaten. Nay, to put it out of doubt that you may have no plea left for ſaving the blood to make puddings, God tells you not only that you ſhall <hi>powre it as water upon the ground, that cannot be gathered up, but that you ſhall cover it with duſt,</hi> Levit. 17 13. and then your puddings are all ſpoiled.</p>
+            <p>
+               <hi>Object.</hi> 2. It is objected this law belonged only to the Jewes, and that in that viſion to <hi>Peter, Act.</hi> 10.13, 14. it was there declared, that nothing is to be accounted un<g ref="char:EOLhyphen"/>cleane now under the Goſpell.</p>
+            <p>
+               <hi>Anſ.</hi> Blond was never forbidden under the notion of an uncleane thing onely, but upon a morrall reaſon, as it was a token of cruelty, and that Text in the <hi>Acts</hi> ſpeake onely of uncleane beaſts, ſo that viſion never clenſed the cruelty of eating bloud, nei<g ref="char:EOLhyphen"/>ther is it any thing at all to the purpoſe, but that men catch at any thing to maintaine their fancies.</p>
+            <p>
+               <hi>Object.</hi> 3. In the third place it is objected, that <hi>Acts</hi> 15.29. bloud and things ſtrangled, are counted indifferent things, and forbidden to the Gentiles onely for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time to avoid offence.</p>
+            <p>
+               <hi>Anſ.</hi> Wee anſwer, this is a meere begging the queſtion, wee ſay eating bloud an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things ſtrangled, are not indifferent, but ſinfull, and this Text doth not ſo much as once intimate that they are indifferent, but rather the contrary, when it ranks it with fornication, a ſin againſt the Morall Law, unleſſe you will account fornication to be a thing indifferent as ſome have held from this Text, and with as good reaſon as they who held bloud and things ſtrangled are indifferent, from this Text.</p>
+            <p>Oh but ſome will be ready to ſay, you muſt not ſhift off this Text ſo, for here is meats offered to Idolls forbidden, and that was a thing indifferent; only forbidden for ſcandall as <hi>Paul</hi> ſhewes, 1 <hi>Cor.</hi> 20. ſo therefore was blood.</p>
+            <p>
+               <hi>Anſ.</hi> 1. If it ſhould be granted that things offered to Idolls are things indifferent, and blood is joyned with them, yet this makes not the eating bloud to be indifferent, no more then it makes fornication indifferent, with which it is likewiſe joyned.</p>
+            <p>But ſecondly it is quſtionable, whether that the meats offered to Idolls here forbid<g ref="char:EOLhyphen"/>den were indifferent or no; for there was in eating of things offered to Idolls, at the time and place of the offring, aſwell as of the fleſh which was left afterward, and I never heard any reaſon yet, why it was not the eating of meat at the time of offering and in the preſence of the Idoll which is here forbidden, and then I am ſure that was never counted an indifferent thing, but a ſinfull thing, and ſo is to this day.</p>
+            <p>
+               <hi>Object.</hi> 4. Oh but it is objected, <hi>Rom.</hi> 14.14. <hi>Paul</hi> ſaith, that that there is <hi>nothing unclean of it ſelfe, &amp;c. Ergo,</hi> not blood.</p>
+            <p>
+               <hi>Anſ.</hi> 1. This is one of the worthy objections; for we do not ſay bloud is uncleane or forbidden as an uncleane thing, but as a cruell thing.</p>
+            <p>Secondly no man is ſo mad to apply <hi>Pauls</hi> words ſo univerſally, as to every in<g ref="char:EOLhyphen"/>dividuall thing in the world, as if every thing were clean and fit for food, for then it comprehends toads, poyſon, mans fleſh, nay ſtones and trees; which I thinke none will ſay are clean food, nay that ſoone of them are lawfull, as mans fleſh, &amp;c. ſo there is no ground this Text ſhould extend to bloud; neither is <hi>Pauls</hi> ſcope or drift to ſhew any ſuch thing, as eaſily might be ſhewed.</p>
+            <p>
+               <pb n="7" facs="tcp:116969:5"/>
+               <hi>Object.</hi> 5. It is againe Objected, 1 <hi>Tim.</hi> 4.5. everie creature of God is good, and nothing to be refuſed if it be received with thankſgiving.</p>
+            <p>
+               <hi>Anſ.</hi> The ſame anſwer might ſerve this as did the former objection, but we an<g ref="char:EOLhyphen"/>ſwer, <hi>Paul</hi> muſt be underſtood of all ſuch things as are not forbidden. As when he ſaies 1 <hi>Cor.</hi> 10. all things are lawfull to me, but all things are not expedient. No man is ſo mad, is to thinke Paul meant under the word all, that it was lawfull for him to murder, or commit adultery, &amp;c. but his words muſt be reſtrained to the things he ſpake of; ſo here, when he ſaies every creature is good, you muſt neither extend it to things unwholſome for food, or unlawfull for food, as we have ſhewed blood to be.</p>
+            <p>
+               <hi>Object.</hi> 6. It is objected, <hi>Tit.</hi> 1.15. to the pure, all things are pure, <hi>Ergo,</hi> bloud lawfull to be eaten.</p>
+            <p>
+               <hi>Anſ.</hi> There is no ground in this Text to ſhew that <hi>Paul</hi> ſpeakes at all with relation to food, to conclude all meats to be pure. I rather think the contrary, conſidering whom hee ſpeaketh of, namely the Cretians, whom hee ſayes Verſe 12. that were evill beaſts and ſlow bellies, and it is not like they who minded to fill their guts ſo much, ſhould trouble themſelves ſo much about the lawfullneſſe of food, neither is it like that <hi>Paul</hi> here confutes them in any ſuch thing.</p>
+            <p>It's not to our purpoſe to ſearch out the particular concerning which <hi>Paul</hi> ſpeaks, it ſufficeth he ſpeaketh not concerning meats, or if he did, yet this univerſall phraſe muſt be expounded, by ſuch exceptions as the Scripture makes to it, and no other<g ref="char:EOLhyphen"/>wiſe, and cannot extend to the lawfullneſſe of blood.</p>
+            <p>
+               <hi>Object.</hi> 7. It is objected, <hi>Deut.</hi> 14.21. there God forbids to the ſewes that they ſhould eat any thing that dieth of it ſelfe, but they ſhould give it to a ſtranger to eat, or they might ſell it to an alien. The force of the objection lies thus:</p>
+            <p>A beaſt that dies of it ſelfe hath the bloud in the fleſh ſtill remaining, but is allow<g ref="char:EOLhyphen"/>ed to ſtrangers or aliens to eat it notwithſtanding, although the Jews might not.</p>
+            <p>
+               <hi>Ergo,</hi> This Law concerning e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g of bloud, concerned the Jewes only, and ſo was temporarie.</p>
+            <p>
+               <hi>Anſ.</hi> To this we anſwer, that indeed this objection hath more force of reaſon then all the reſt; but we anſwer thus:</p>
+            <p>Firſt, that by a beaſt that dies of it ſelfe you may underſtand, a beaſt that is ſicke of a diſeaſe which is commonly mortall, or cauſeth death, and upon the ſight thereof the beaſt is ſlaine, and his blood taken from him, yet becauſe of the diſeaſe which was mortall, he is in a ſort ſaid to die of himſelfe, and becauſe the food was not therefore ſo wholſome, as of beaſts which were ſlaine in a common way for food, therefore the Jewes were to ſell it to an alien, and not to eat it; and take it ſo, then it makes nothing to the eating of blood.</p>
+            <p>But ſecondly, taking it for granted, that it is ſpoken of a b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, that wholly dies of it ſelfe; yet it ſeemes, if it be taken whilſt it is yet warme, and ſtuck with a knife, ſome blood will come from it, and ſo the caſe will be but in a manner with the caſe of a beaſt killed by an unskilfull butcher, or which by ſome other accident only part
+<pb n="8" facs="tcp:116969:6"/>of the blood, is taken from the beaſt and part remaining in his fleſh, and yet it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unlawfull to eat ſuch fleſh, although there be ſome blood in it: otherwiſe, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would ſcarce be anie meat eaten lawfully, becauſe heardly any beaſt or foule that is killed, voideth all his blood, neither is Gods forbidding to eat blood to be taken ſo ſtrictly, as that no fleſh might be eaten except everie drop of the bloud were out, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it requires we ſhould uſe our endeavours to void the blood out, and not to eat it wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the blood in the fleſh, much leſſe that we ſhould eat it when we have ſevered it from the fleſh.</p>
+            <p>And ſo we conclude, that a ſtranger might be permitted to eat ſuch a beaſt, which died of it ſelfe; and that it was not forbidden to the Jewes, becauſe of ſome blo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which unavoydably remained in it, and would not be voyded out, but for ſome other reaſon of typicall impuritie, or uncleanneſſe, or the like, and ſo is nothing to the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int in hand.</p>
+            <p>Thus have wee briefly and clearly (as wee conceive) proved the unlawfulneſſe of eating bloud, and anſwered all objections to the contrarie.</p>
+            <p>To conclude therefore, let us lay aſide this cruell cuſtom of eating the lives of beaſts, as it is uſed thorowout all England, in unhallowed black puddings, as wee will ſhew our ſelves therefore to be mercifull men, not inhumane; as wee will not be found to be diſobeyers of God in ſuch expreſſe precepts, but obeyers of his will, and doers of thoſe things that are right in his eyes, as wee would have the favour of God, and to proſper both us and our children, and not to be cut off from our people, and have the face of God continually ſet againſt us for evill; let us ſpeedily lay aſide this barbarous cu<g ref="char:EOLhyphen"/>ſtome of eating black puddings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
